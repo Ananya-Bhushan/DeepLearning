@@ -1,1 +1,2 @@
 # DeepLearning
+This project involves building a model to predict the sentiment of tweets using NLP and Machine Learning techniques. It includes the collection and cleaning of a large dataset of tweets, which were then analyzed using NLP to extract relevant features such as keywords and phrases. These features were used to train a machine learning model to classify tweets into positive, negative, or neutral sentiments.
